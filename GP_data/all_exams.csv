@@ -1,0 +1,1201 @@
+"","gender","race/ethnicity","parental level of education","lunch","test preparation course","math score","reading score","writing score"
+"1","male","group D","some college","standard","none",69,63,62
+"2","female","group E","bachelor's degree","free/reduced","completed",65,78,80
+"3","female","group C","some high school","standard","none",57,56,59
+"4","female","group D","associate's degree","free/reduced","none",62,73,71
+"5","male","group C","some college","free/reduced","none",46,52,46
+"6","male","group B","some high school","free/reduced","none",39,35,28
+"7","female","group C","associate's degree","standard","none",78,90,84
+"8","female","group D","master's degree","standard","none",79,85,87
+"9","female","group C","high school","free/reduced","none",67,84,81
+"10","male","group B","some college","free/reduced","none",57,62,54
+"11","female","group D","associate's degree","standard","completed",80,86,91
+"12","male","group B","high school","standard","completed",85,86,84
+"13","male","group B","high school","standard","none",79,75,71
+"14","male","group E","bachelor's degree","standard","none",55,42,35
+"15","male","group D","bachelor's degree","free/reduced","completed",69,76,74
+"16","female","group B","some college","free/reduced","completed",43,54,57
+"17","female","group A","some high school","free/reduced","none",25,36,22
+"18","female","group B","bachelor's degree","standard","none",68,76,71
+"19","female","group D","bachelor's degree","standard","none",82,86,82
+"20","male","group A","bachelor's degree","standard","none",98,92,94
+"21","male","group B","bachelor's degree","standard","none",76,74,76
+"22","female","group C","some high school","standard","completed",88,87,88
+"23","male","group D","some college","standard","none",54,45,43
+"24","female","group B","associate's degree","standard","none",44,57,59
+"25","female","group C","associate's degree","free/reduced","none",52,60,63
+"26","female","group B","some college","free/reduced","completed",33,45,52
+"27","male","group E","associate's degree","free/reduced","none",61,66,56
+"28","male","group D","some high school","free/reduced","none",45,47,39
+"29","male","group C","bachelor's degree","standard","none",69,64,65
+"30","male","group A","high school","standard","completed",88,74,78
+"31","female","group B","some high school","free/reduced","completed",59,74,72
+"32","female","group E","high school","standard","none",92,92,86
+"33","female","group C","some college","standard","none",84,100,99
+"34","female","group D","associate's degree","free/reduced","none",82,83,89
+"35","male","group B","master's degree","standard","none",76,78,81
+"36","male","group C","some college","free/reduced","none",73,75,68
+"37","female","group E","high school","standard","none",63,68,57
+"38","male","group B","some college","standard","completed",80,79,77
+"39","female","group B","bachelor's degree","standard","none",91,100,97
+"40","female","group C","bachelor's degree","standard","completed",84,85,92
+"41","female","group C","associate's degree","free/reduced","none",77,87,80
+"42","male","group B","associate's degree","standard","none",58,56,56
+"43","female","group A","high school","free/reduced","none",55,60,61
+"44","female","group B","bachelor's degree","standard","none",87,95,90
+"45","male","group E","high school","standard","completed",97,92,90
+"46","female","group C","associate's degree","free/reduced","none",63,78,70
+"47","male","group D","some high school","free/reduced","completed",79,71,70
+"48","male","group C","bachelor's degree","standard","completed",77,84,85
+"49","female","group D","associate's degree","standard","none",56,64,66
+"50","male","group D","associate's degree","standard","none",59,51,52
+"51","female","group C","associate's degree","free/reduced","none",47,72,66
+"52","male","group E","bachelor's degree","standard","none",82,80,78
+"53","female","group C","associate's degree","standard","none",53,47,52
+"54","female","group D","high school","free/reduced","completed",53,57,65
+"55","female","group C","associate's degree","free/reduced","completed",63,81,85
+"56","female","group E","some college","standard","completed",81,91,91
+"57","female","group C","associate's degree","standard","none",67,73,72
+"58","male","group C","some high school","standard","none",46,34,34
+"59","female","group E","some college","standard","none",51,55,52
+"60","male","group B","some high school","free/reduced","none",26,25,20
+"61","female","group C","high school","free/reduced","none",44,61,60
+"62","male","group C","some high school","free/reduced","none",78,74,72
+"63","male","group B","high school","standard","completed",74,67,68
+"64","male","group C","some high school","standard","completed",63,58,48
+"65","male","group B","some college","standard","none",49,49,48
+"66","male","group A","some college","standard","completed",72,70,72
+"67","male","group B","some college","standard","none",76,61,63
+"68","female","group E","some college","standard","none",63,72,69
+"69","female","group B","some college","standard","none",76,79,74
+"70","male","group B","bachelor's degree","standard","none",65,66,59
+"71","male","group C","some high school","free/reduced","none",70,60,57
+"72","female","group C","high school","free/reduced","completed",76,89,90
+"73","female","group D","associate's degree","free/reduced","none",71,88,89
+"74","male","group D","some college","standard","none",78,68,76
+"75","male","group E","associate's degree","free/reduced","none",70,54,55
+"76","female","group D","associate's degree","free/reduced","none",52,65,64
+"77","male","group D","some high school","standard","completed",94,83,86
+"78","female","group E","some high school","standard","completed",84,96,85
+"79","male","group E","some college","standard","none",84,71,72
+"80","male","group D","bachelor's degree","free/reduced","none",86,80,74
+"81","female","group C","some college","standard","completed",41,53,60
+"82","male","group B","some high school","standard","none",42,39,34
+"83","male","group D","some college","standard","none",91,88,83
+"84","female","group C","some high school","standard","completed",65,83,77
+"85","male","group A","associate's degree","standard","none",75,61,63
+"86","female","group D","high school","free/reduced","none",71,92,85
+"87","female","group B","associate's degree","standard","none",75,94,90
+"88","female","group C","some high school","standard","none",66,77,70
+"89","male","group A","bachelor's degree","standard","none",67,67,65
+"90","male","group C","bachelor's degree","free/reduced","none",47,56,46
+"91","female","group D","some high school","standard","none",49,67,70
+"92","female","group B","high school","standard","completed",91,98,96
+"93","female","group A","some high school","standard","completed",72,79,79
+"94","female","group B","some college","free/reduced","none",45,68,61
+"95","male","group A","some college","free/reduced","completed",89,88,85
+"96","female","group C","some college","standard","none",80,98,92
+"97","female","group A","some college","standard","none",50,58,55
+"98","male","group B","some high school","standard","none",79,75,61
+"99","female","group D","associate's degree","free/reduced","none",62,61,65
+"100","male","group D","some high school","free/reduced","completed",77,78,73
+"101","female","group D","high school","standard","completed",76,89,94
+"102","female","group D","high school","free/reduced","none",49,67,63
+"103","male","group A","some high school","standard","none",60,63,53
+"104","female","group A","some college","standard","completed",72,87,87
+"105","male","group E","high school","standard","none",86,86,77
+"106","male","group D","some college","standard","completed",88,81,85
+"107","male","group E","associate's degree","standard","none",74,59,63
+"108","female","group D","high school","standard","none",57,71,73
+"109","female","group A","some high school","free/reduced","none",53,75,69
+"110","male","group B","associate's degree","free/reduced","none",61,57,59
+"111","male","group D","some high school","free/reduced","none",30,32,31
+"112","female","group E","some high school","free/reduced","none",71,86,80
+"113","female","group D","some high school","free/reduced","none",45,58,55
+"114","male","group D","high school","free/reduced","none",43,41,42
+"115","male","group E","some college","free/reduced","none",85,79,75
+"116","male","group D","high school","standard","completed",95,96,99
+"117","female","group C","bachelor's degree","standard","none",57,66,65
+"118","female","group C","some high school","standard","completed",73,72,74
+"119","male","group C","associate's degree","standard","none",86,78,71
+"120","male","group C","associate's degree","free/reduced","completed",54,48,57
+"121","male","group C","bachelor's degree","standard","completed",82,77,73
+"122","male","group C","some high school","free/reduced","none",67,64,53
+"123","female","group D","associate's degree","standard","none",65,64,69
+"124","male","group C","master's degree","standard","completed",69,67,65
+"125","female","group D","high school","standard","none",69,69,73
+"126","female","group B","bachelor's degree","standard","none",80,82,79
+"127","male","group D","associate's degree","free/reduced","none",65,71,67
+"128","female","group D","some college","free/reduced","completed",82,91,94
+"129","female","group D","some high school","standard","none",51,67,59
+"130","female","group B","high school","standard","none",87,86,87
+"131","female","group B","associate's degree","free/reduced","none",76,94,82
+"132","female","group C","bachelor's degree","standard","none",52,65,62
+"133","male","group B","bachelor's degree","free/reduced","none",60,58,53
+"134","female","group C","some college","standard","none",43,66,61
+"135","female","group D","associate's degree","standard","none",80,90,89
+"136","female","group E","some college","standard","none",78,79,77
+"137","male","group C","associate's degree","free/reduced","none",80,74,69
+"138","female","group C","high school","standard","completed",50,68,65
+"139","male","group B","high school","free/reduced","completed",56,63,58
+"140","male","group C","some college","free/reduced","none",43,40,35
+"141","male","group D","some college","free/reduced","none",54,61,63
+"142","female","group C","some college","standard","none",67,77,78
+"143","male","group E","bachelor's degree","standard","completed",100,100,100
+"144","female","group D","bachelor's degree","standard","none",73,82,87
+"145","male","group E","high school","standard","none",88,75,77
+"146","female","group D","some high school","free/reduced","none",57,65,67
+"147","male","group E","some high school","standard","completed",72,69,65
+"148","female","group C","associate's degree","free/reduced","none",55,63,53
+"149","male","group D","some college","free/reduced","none",60,53,56
+"150","male","group D","some college","standard","completed",57,53,56
+"151","male","group D","some high school","standard","completed",67,62,60
+"152","male","group E","some college","standard","none",94,81,78
+"153","female","group C","some college","standard","none",82,96,92
+"154","male","group D","master's degree","standard","none",79,73,75
+"155","female","group D","associate's degree","free/reduced","none",63,72,72
+"156","male","group A","high school","standard","completed",72,59,63
+"157","male","group B","associate's degree","standard","completed",68,73,72
+"158","female","group E","bachelor's degree","standard","none",74,79,82
+"159","male","group C","some college","free/reduced","none",63,56,54
+"160","male","group C","associate's degree","free/reduced","completed",77,85,82
+"161","female","group E","some college","standard","none",82,81,80
+"162","male","group D","some high school","standard","none",68,60,56
+"163","male","group D","associate's degree","standard","completed",83,78,79
+"164","female","group D","high school","standard","none",84,80,87
+"165","male","group A","some college","free/reduced","none",26,38,33
+"166","female","group B","associate's degree","standard","completed",52,73,72
+"167","male","group C","some college","standard","none",69,60,55
+"168","male","group D","associate's degree","standard","none",92,74,81
+"169","male","group D","some college","free/reduced","completed",67,60,60
+"170","male","group E","some college","standard","completed",96,79,87
+"171","female","group C","some college","free/reduced","completed",78,94,91
+"172","female","group C","high school","free/reduced","none",51,80,73
+"173","female","group D","bachelor's degree","standard","none",41,55,53
+"174","male","group C","associate's degree","standard","none",78,80,75
+"175","male","group C","some high school","standard","completed",83,66,70
+"176","female","group D","some college","free/reduced","completed",69,85,90
+"177","female","group C","high school","standard","none",77,86,86
+"178","male","group D","bachelor's degree","standard","none",80,80,78
+"179","male","group A","associate's degree","free/reduced","completed",63,58,57
+"180","male","group C","some high school","standard","completed",88,77,80
+"181","female","group B","associate's degree","free/reduced","none",63,75,74
+"182","female","group B","associate's degree","standard","none",59,67,65
+"183","female","group B","high school","standard","none",55,56,48
+"184","male","group C","some high school","free/reduced","none",52,43,42
+"185","female","group E","some high school","standard","none",66,80,76
+"186","male","group C","master's degree","standard","completed",90,93,97
+"187","male","group E","high school","standard","completed",99,100,99
+"188","female","group E","associate's degree","standard","none",72,74,79
+"189","female","group E","associate's degree","standard","none",98,93,92
+"190","female","group D","some college","free/reduced","completed",64,80,84
+"191","female","group C","high school","free/reduced","completed",62,80,75
+"192","female","group D","high school","standard","none",31,41,46
+"193","male","group A","some college","standard","completed",78,88,82
+"194","female","group D","high school","standard","none",61,65,64
+"195","male","group B","high school","free/reduced","none",60,57,57
+"196","female","group D","associate's degree","standard","none",82,81,84
+"197","male","group B","high school","free/reduced","none",35,38,30
+"198","female","group C","bachelor's degree","standard","none",62,62,65
+"199","male","group B","some college","free/reduced","none",37,35,34
+"200","male","group D","some college","standard","none",66,51,52
+"201","female","group D","some high school","free/reduced","none",48,53,53
+"202","female","group C","some high school","free/reduced","none",38,57,53
+"203","female","group C","some high school","free/reduced","none",37,41,37
+"204","female","group B","some high school","free/reduced","completed",59,64,59
+"205","male","group B","associate's degree","free/reduced","completed",73,74,73
+"206","female","group D","associate's degree","free/reduced","completed",77,92,97
+"207","male","group E","associate's degree","standard","none",96,88,86
+"208","female","group D","some high school","standard","none",64,62,66
+"209","female","group D","some high school","standard","none",50,56,56
+"210","female","group D","high school","free/reduced","none",38,56,50
+"211","female","group D","some high school","standard","none",66,85,80
+"212","male","group B","high school","free/reduced","completed",43,53,46
+"213","female","group C","some college","free/reduced","none",57,64,65
+"214","male","group C","some college","standard","none",60,55,57
+"215","female","group B","some high school","standard","none",63,69,63
+"216","male","group E","bachelor's degree","free/reduced","completed",61,56,59
+"217","male","group D","some college","standard","none",61,57,60
+"218","female","group B","high school","free/reduced","none",49,57,55
+"219","female","group C","some college","standard","none",72,66,70
+"220","male","group B","high school","standard","none",69,61,57
+"221","male","group E","some college","standard","none",88,79,72
+"222","female","group D","bachelor's degree","free/reduced","completed",41,48,55
+"223","female","group E","high school","standard","none",58,56,52
+"224","female","group C","some college","free/reduced","completed",56,66,70
+"225","male","group E","some college","free/reduced","none",73,66,63
+"226","female","group A","high school","standard","none",54,67,64
+"227","female","group D","some college","standard","completed",71,95,94
+"228","female","group D","associate's degree","standard","none",80,82,82
+"229","male","group E","some college","free/reduced","none",83,78,72
+"230","female","group C","some high school","standard","none",61,64,64
+"231","male","group C","some high school","free/reduced","none",66,61,62
+"232","male","group A","associate's degree","standard","none",55,61,53
+"233","male","group D","bachelor's degree","standard","completed",96,89,92
+"234","male","group E","high school","standard","completed",86,82,83
+"235","male","group C","some college","standard","none",93,91,79
+"236","male","group C","master's degree","free/reduced","completed",68,68,68
+"237","male","group B","some college","free/reduced","none",38,44,37
+"238","female","group B","some college","standard","completed",69,80,83
+"239","male","group B","associate's degree","free/reduced","none",59,51,45
+"240","female","group E","associate's degree","standard","completed",97,100,97
+"241","male","group C","some college","free/reduced","none",62,57,55
+"242","female","group E","some high school","standard","completed",62,71,78
+"243","male","group E","associate's degree","standard","none",100,90,91
+"244","female","group B","bachelor's degree","standard","completed",58,65,69
+"245","female","group A","high school","standard","none",84,90,92
+"246","male","group D","bachelor's degree","free/reduced","none",55,52,49
+"247","male","group C","associate's degree","free/reduced","none",77,77,75
+"248","female","group D","some college","free/reduced","completed",58,65,72
+"249","female","group A","associate's degree","standard","completed",97,100,100
+"250","male","group A","bachelor's degree","free/reduced","none",54,57,49
+"251","male","group D","some college","standard","none",71,69,60
+"252","male","group B","some high school","free/reduced","none",48,47,43
+"253","male","group D","some college","standard","completed",66,68,68
+"254","female","group B","some high school","standard","completed",52,65,62
+"255","male","group D","some high school","standard","none",68,62,62
+"256","female","group D","bachelor's degree","standard","none",59,70,73
+"257","female","group D","high school","standard","none",74,72,71
+"258","male","group C","some college","standard","none",64,63,50
+"259","female","group D","some college","standard","none",81,74,79
+"260","male","group C","master's degree","standard","none",83,86,81
+"261","male","group B","bachelor's degree","standard","none",86,79,77
+"262","male","group E","associate's degree","standard","none",83,72,66
+"263","female","group B","associate's degree","free/reduced","none",43,56,50
+"264","female","group E","associate's degree","standard","none",75,63,68
+"265","male","group D","some high school","standard","completed",66,61,67
+"266","male","group D","some college","standard","completed",58,51,52
+"267","male","group A","high school","standard","none",62,55,43
+"268","female","group C","some high school","standard","none",52,55,56
+"269","male","group C","some college","standard","completed",87,77,85
+"270","male","group C","high school","standard","none",71,68,65
+"271","female","group B","bachelor's degree","standard","none",68,87,82
+"272","male","group B","high school","standard","completed",78,83,75
+"273","male","group E","associate's degree","standard","none",69,57,51
+"274","male","group D","some college","free/reduced","none",55,67,59
+"275","male","group D","some college","standard","none",90,83,87
+"276","female","group C","some college","free/reduced","none",42,62,63
+"277","female","group C","master's degree","standard","none",37,55,53
+"278","female","group D","bachelor's degree","standard","completed",74,82,87
+"279","male","group A","some high school","free/reduced","completed",79,74,78
+"280","female","group B","master's degree","free/reduced","none",52,66,62
+"281","male","group C","some high school","standard","completed",82,71,74
+"282","female","group E","some college","free/reduced","none",66,70,68
+"283","male","group D","associate's degree","standard","completed",69,62,68
+"284","female","group D","associate's degree","standard","completed",56,70,67
+"285","male","group C","high school","standard","completed",76,68,63
+"286","female","group E","high school","standard","none",89,82,85
+"287","female","group D","some college","standard","none",79,84,83
+"288","male","group C","some high school","standard","completed",68,62,60
+"289","male","group B","some high school","standard","none",60,53,51
+"290","male","group B","some high school","standard","none",73,84,77
+"291","male","group A","some college","standard","none",84,64,71
+"292","male","group D","some college","standard","completed",63,60,67
+"293","male","group D","some college","standard","none",38,37,29
+"294","female","group A","some high school","standard","none",59,60,67
+"295","male","group C","high school","standard","completed",66,79,76
+"296","female","group C","high school","free/reduced","completed",23,42,45
+"297","female","group C","some high school","standard","none",31,33,30
+"298","female","group B","associate's degree","standard","none",73,82,78
+"299","female","group D","high school","standard","none",60,69,66
+"300","male","group D","high school","standard","none",63,57,52
+"301","male","group E","high school","standard","none",74,66,62
+"302","female","group E","some college","standard","completed",77,76,83
+"303","male","group E","high school","standard","none",91,81,80
+"304","male","group D","master's degree","standard","none",84,78,78
+"305","male","group D","some high school","standard","none",74,76,70
+"306","male","group D","some high school","free/reduced","completed",48,47,46
+"307","male","group D","some college","standard","none",58,51,48
+"308","male","group C","some college","standard","completed",51,45,42
+"309","male","group D","high school","standard","completed",82,78,73
+"310","female","group B","some high school","standard","none",65,77,72
+"311","male","group E","associate's degree","standard","completed",93,88,85
+"312","male","group C","high school","standard","none",62,51,47
+"313","female","group D","some college","free/reduced","none",70,82,87
+"314","male","group C","associate's degree","free/reduced","completed",67,61,66
+"315","female","group B","some high school","free/reduced","completed",30,53,47
+"316","male","group E","bachelor's degree","standard","completed",93,87,90
+"317","male","group A","high school","free/reduced","none",50,42,36
+"318","female","group D","associate's degree","standard","none",73,80,87
+"319","male","group E","high school","free/reduced","none",88,89,79
+"320","male","group D","associate's degree","standard","none",84,86,80
+"321","female","group D","some college","free/reduced","none",56,67,68
+"322","male","group D","associate's degree","standard","completed",98,93,98
+"323","female","group C","some high school","standard","none",83,82,85
+"324","male","group C","some college","standard","none",71,65,73
+"325","female","group D","some high school","free/reduced","none",77,88,85
+"326","female","group E","master's degree","standard","none",69,78,75
+"327","male","group D","some college","free/reduced","none",69,60,51
+"328","female","group D","high school","standard","none",67,68,62
+"329","male","group B","some high school","standard","none",50,56,49
+"330","female","group C","bachelor's degree","free/reduced","none",72,73,77
+"331","female","group C","associate's degree","standard","none",68,77,78
+"332","female","group B","master's degree","standard","completed",72,76,88
+"333","male","group D","some college","free/reduced","none",44,49,49
+"334","male","group B","some high school","standard","none",65,62,61
+"335","male","group D","associate's degree","standard","completed",79,77,74
+"336","male","group C","some high school","standard","completed",41,30,35
+"337","male","group C","associate's degree","standard","completed",82,81,79
+"338","female","group B","master's degree","standard","none",87,93,90
+"339","male","group B","some high school","standard","none",59,64,58
+"340","female","group D","some college","free/reduced","none",44,55,57
+"341","male","group D","high school","standard","none",45,33,31
+"342","male","group C","some college","standard","completed",65,63,65
+"343","male","group C","high school","free/reduced","completed",46,42,41
+"344","female","group C","associate's degree","standard","none",75,87,83
+"345","male","group B","high school","standard","none",78,84,78
+"346","male","group D","some college","standard","none",71,64,63
+"347","female","group C","high school","free/reduced","completed",52,62,60
+"348","male","group B","high school","standard","none",89,83,83
+"349","male","group B","some high school","standard","completed",84,84,80
+"350","male","group B","associate's degree","free/reduced","none",68,68,59
+"351","male","group B","some college","free/reduced","completed",55,53,53
+"352","female","group C","some high school","free/reduced","none",51,64,62
+"353","male","group E","some high school","standard","none",93,85,74
+"354","male","group D","high school","standard","completed",87,85,84
+"355","female","group E","some college","standard","completed",73,68,70
+"356","male","group C","some college","free/reduced","none",49,58,53
+"357","male","group C","some high school","standard","completed",74,73,73
+"358","female","group E","some college","free/reduced","completed",76,81,84
+"359","male","group D","master's degree","standard","completed",60,54,66
+"360","male","group A","some high school","standard","completed",49,49,46
+"361","male","group D","some college","standard","completed",83,75,77
+"362","female","group B","some college","standard","completed",74,92,92
+"363","female","group C","bachelor's degree","free/reduced","completed",66,70,73
+"364","female","group B","some college","standard","completed",78,86,89
+"365","female","group E","associate's degree","standard","none",82,88,81
+"366","male","group C","associate's degree","standard","none",100,86,90
+"367","female","group B","high school","standard","completed",76,68,79
+"368","female","group E","master's degree","free/reduced","none",52,66,62
+"369","male","group B","some high school","standard","none",57,51,43
+"370","female","group D","bachelor's degree","standard","completed",93,100,100
+"371","male","group E","associate's degree","standard","completed",100,100,100
+"372","female","group C","bachelor's degree","free/reduced","none",38,55,51
+"373","female","group C","high school","free/reduced","completed",63,75,75
+"374","male","group C","bachelor's degree","standard","completed",93,90,96
+"375","male","group C","associate's degree","free/reduced","none",57,53,51
+"376","male","group D","bachelor's degree","free/reduced","none",59,57,57
+"377","female","group C","master's degree","free/reduced","completed",47,57,61
+"378","female","group E","associate's degree","free/reduced","none",70,86,81
+"379","female","group C","some high school","standard","none",62,69,73
+"380","male","group A","high school","free/reduced","none",58,66,62
+"381","male","group B","associate's degree","free/reduced","none",55,63,55
+"382","female","group C","some college","standard","none",64,80,81
+"383","male","group D","some high school","standard","completed",80,65,74
+"384","male","group C","some high school","standard","completed",56,54,56
+"385","female","group A","high school","free/reduced","completed",72,79,73
+"386","male","group C","associate's degree","free/reduced","none",65,70,67
+"387","female","group B","associate's degree","standard","none",46,64,60
+"388","male","group C","bachelor's degree","standard","none",81,86,79
+"389","male","group D","some high school","standard","completed",96,91,91
+"390","female","group B","master's degree","free/reduced","none",48,70,60
+"391","male","group B","some high school","standard","none",54,55,50
+"392","female","group D","some high school","standard","none",63,68,66
+"393","female","group C","some college","standard","completed",82,99,100
+"394","female","group E","bachelor's degree","standard","none",65,61,63
+"395","male","group B","high school","free/reduced","completed",62,68,66
+"396","male","group B","some high school","standard","none",42,44,40
+"397","female","group D","master's degree","standard","completed",93,100,100
+"398","female","group E","bachelor's degree","free/reduced","completed",64,76,78
+"399","male","group C","high school","free/reduced","none",78,75,68
+"400","male","group C","high school","free/reduced","completed",50,59,56
+"401","male","group D","some college","standard","completed",76,73,81
+"402","male","group E","bachelor's degree","free/reduced","completed",97,89,84
+"403","male","group E","associate's degree","standard","none",77,72,59
+"404","female","group C","master's degree","standard","none",50,52,58
+"405","male","group C","high school","standard","completed",96,87,88
+"406","male","group E","associate's degree","standard","none",48,42,38
+"407","female","group E","some high school","free/reduced","completed",47,59,55
+"408","male","group D","bachelor's degree","free/reduced","none",62,57,53
+"409","male","group C","high school","standard","none",20,15,13
+"410","male","group C","high school","standard","completed",82,76,74
+"411","male","group C","some college","standard","none",89,82,81
+"412","male","group C","bachelor's degree","free/reduced","none",82,82,77
+"413","female","group C","associate's degree","free/reduced","completed",52,69,71
+"414","male","group E","high school","free/reduced","none",77,70,65
+"415","female","group D","associate's degree","free/reduced","none",42,58,55
+"416","female","group E","associate's degree","free/reduced","completed",57,76,75
+"417","female","group A","high school","standard","none",53,62,62
+"418","female","group E","some high school","standard","none",81,94,92
+"419","female","group C","high school","free/reduced","none",30,46,40
+"420","female","group C","associate's degree","free/reduced","none",61,68,68
+"421","male","group A","some high school","standard","completed",84,75,79
+"422","female","group B","some college","free/reduced","none",53,55,55
+"423","male","group C","high school","standard","none",65,65,62
+"424","male","group B","high school","standard","completed",82,78,76
+"425","female","group E","master's degree","standard","none",93,92,88
+"426","female","group D","high school","free/reduced","none",49,62,63
+"427","male","group B","some high school","free/reduced","none",59,63,63
+"428","male","group E","high school","standard","completed",78,70,64
+"429","female","group B","some college","standard","none",60,71,70
+"430","female","group C","high school","standard","none",67,67,71
+"431","female","group D","some high school","standard","none",57,61,63
+"432","male","group D","high school","standard","completed",68,60,64
+"433","male","group A","some college","free/reduced","none",70,69,66
+"434","female","group D","master's degree","free/reduced","none",58,64,68
+"435","female","group D","some college","free/reduced","none",45,57,61
+"436","male","group B","master's degree","standard","none",93,93,89
+"437","male","group D","high school","standard","none",85,75,74
+"438","male","group D","some college","standard","none",60,47,55
+"439","male","group C","high school","standard","completed",69,66,67
+"440","female","group A","bachelor's degree","free/reduced","none",75,92,90
+"441","female","group B","high school","free/reduced","none",66,69,75
+"442","female","group D","associate's degree","free/reduced","completed",64,81,87
+"443","male","group C","some college","free/reduced","none",64,65,60
+"444","male","group D","some high school","standard","none",80,66,66
+"445","male","group B","high school","standard","none",81,85,79
+"446","female","group D","some college","free/reduced","none",57,58,59
+"447","male","group D","high school","standard","none",71,67,68
+"448","male","group D","some college","free/reduced","completed",71,71,71
+"449","female","group B","some college","standard","none",52,66,58
+"450","female","group E","associate's degree","standard","completed",75,83,88
+"451","male","group C","associate's degree","free/reduced","none",35,42,29
+"452","female","group D","high school","standard","none",53,63,61
+"453","male","group C","high school","standard","none",77,69,63
+"454","male","group A","bachelor's degree","standard","none",92,92,94
+"455","female","group E","associate's degree","standard","none",94,93,92
+"456","male","group D","some college","free/reduced","none",62,47,47
+"457","male","group A","high school","standard","none",67,54,49
+"458","female","group E","associate's degree","standard","completed",86,89,93
+"459","female","group D","some high school","free/reduced","completed",76,85,84
+"460","female","group C","some college","free/reduced","completed",55,64,75
+"461","female","group C","high school","free/reduced","completed",41,53,49
+"462","male","group D","master's degree","free/reduced","none",69,67,68
+"463","female","group C","bachelor's degree","standard","none",83,100,94
+"464","female","group D","high school","free/reduced","none",22,38,38
+"465","female","group D","some college","standard","completed",82,88,88
+"466","male","group D","bachelor's degree","free/reduced","none",68,69,67
+"467","male","group A","some high school","standard","none",65,63,62
+"468","male","group B","high school","standard","completed",93,84,89
+"469","female","group C","associate's degree","standard","none",62,67,61
+"470","female","group B","master's degree","free/reduced","completed",77,92,97
+"471","male","group D","some college","standard","completed",89,74,78
+"472","female","group D","associate's degree","standard","none",73,75,74
+"473","male","group C","high school","free/reduced","none",63,56,54
+"474","female","group C","some high school","free/reduced","completed",56,62,63
+"475","male","group C","master's degree","standard","none",54,48,49
+"476","female","group A","associate's degree","free/reduced","none",70,84,82
+"477","male","group E","some college","standard","completed",95,84,88
+"478","male","group B","associate's degree","standard","none",74,59,59
+"479","female","group C","master's degree","standard","none",55,53,56
+"480","male","group B","bachelor's degree","standard","completed",72,70,66
+"481","male","group E","some high school","free/reduced","completed",88,91,83
+"482","male","group D","bachelor's degree","free/reduced","none",49,47,46
+"483","male","group C","bachelor's degree","free/reduced","completed",63,61,63
+"484","female","group E","some high school","standard","completed",82,95,85
+"485","male","group C","some college","free/reduced","none",68,69,59
+"486","female","group C","master's degree","free/reduced","completed",48,60,63
+"487","male","group E","associate's degree","free/reduced","completed",48,52,49
+"488","male","group D","high school","standard","completed",66,60,60
+"489","male","group E","associate's degree","free/reduced","completed",67,52,54
+"490","male","group C","some college","standard","completed",66,72,70
+"491","male","group D","some high school","standard","none",65,63,54
+"492","male","group D","master's degree","standard","none",65,54,59
+"493","female","group D","some high school","standard","none",63,68,63
+"494","male","group D","some college","standard","none",74,72,69
+"495","male","group E","bachelor's degree","standard","completed",93,86,82
+"496","male","group C","high school","free/reduced","none",77,79,69
+"497","female","group C","associate's degree","free/reduced","none",64,71,72
+"498","female","group A","some high school","free/reduced","completed",70,80,81
+"499","male","group B","some high school","standard","none",88,82,73
+"500","male","group C","some high school","free/reduced","none",77,77,70
+"501","male","group C","associate's degree","standard","none",56,51,53
+"502","male","group D","associate's degree","standard","none",90,87,91
+"503","female","group D","high school","standard","none",70,80,79
+"504","female","group B","some high school","standard","none",60,63,60
+"505","male","group C","bachelor's degree","free/reduced","completed",73,67,78
+"506","female","group C","associate's degree","standard","none",70,77,76
+"507","male","group D","high school","standard","completed",75,73,66
+"508","male","group D","associate's degree","standard","none",67,66,63
+"509","female","group B","some college","free/reduced","none",14,18,22
+"510","female","group C","master's degree","free/reduced","completed",68,75,78
+"511","male","group D","some college","standard","none",82,84,75
+"512","female","group C","some high school","standard","none",72,76,70
+"513","male","group C","some college","standard","none",49,54,53
+"514","female","group C","high school","standard","none",28,42,42
+"515","male","group C","some college","standard","completed",76,74,77
+"516","female","group A","high school","standard","completed",42,49,59
+"517","female","group A","some college","standard","none",40,43,48
+"518","male","group C","some college","standard","completed",36,33,30
+"519","male","group B","bachelor's degree","standard","none",75,64,63
+"520","female","group D","master's degree","free/reduced","none",73,90,88
+"521","male","group D","some college","standard","completed",77,82,87
+"522","male","group D","master's degree","free/reduced","none",71,63,61
+"523","male","group C","associate's degree","standard","completed",64,65,61
+"524","female","group D","master's degree","free/reduced","none",68,76,70
+"525","male","group C","high school","standard","none",83,74,72
+"526","male","group C","some college","standard","completed",94,88,85
+"527","male","group D","high school","standard","none",55,56,52
+"528","female","group B","some high school","free/reduced","none",51,60,54
+"529","male","group C","some high school","standard","none",84,86,77
+"530","male","group D","associate's degree","standard","none",95,83,86
+"531","female","group C","some college","standard","none",58,57,62
+"532","female","group B","associate's degree","standard","none",79,96,100
+"533","female","group D","master's degree","free/reduced","none",71,87,84
+"534","female","group C","some college","standard","none",62,63,64
+"535","male","group E","high school","free/reduced","none",65,54,44
+"536","male","group D","bachelor's degree","standard","none",65,70,65
+"537","female","group C","high school","standard","none",52,62,61
+"538","male","group B","bachelor's degree","free/reduced","completed",67,66,66
+"539","male","group C","high school","free/reduced","none",51,54,47
+"540","female","group B","some college","standard","none",67,65,64
+"541","male","group D","some high school","standard","completed",86,80,88
+"542","male","group C","high school","free/reduced","none",46,50,47
+"543","male","group A","bachelor's degree","standard","none",62,57,55
+"544","male","group C","some high school","free/reduced","none",54,49,45
+"545","male","group B","high school","free/reduced","none",43,56,47
+"546","female","group D","high school","standard","none",45,61,60
+"547","female","group A","high school","free/reduced","none",39,54,44
+"548","male","group D","master's degree","free/reduced","none",67,62,57
+"549","female","group C","bachelor's degree","standard","none",74,72,75
+"550","male","group A","associate's degree","standard","completed",75,76,71
+"551","female","group B","some high school","standard","none",52,66,54
+"552","female","group E","high school","standard","none",72,78,75
+"553","male","group D","associate's degree","free/reduced","completed",87,97,90
+"554","male","group D","associate's degree","standard","none",74,66,63
+"555","male","group E","high school","free/reduced","none",53,48,41
+"556","female","group C","associate's degree","free/reduced","completed",38,46,50
+"557","female","group D","high school","free/reduced","none",57,66,69
+"558","male","group A","bachelor's degree","standard","none",80,78,77
+"559","female","group B","some college","standard","none",70,78,82
+"560","male","group C","some high school","standard","none",56,56,55
+"561","female","group E","some high school","free/reduced","none",51,53,50
+"562","male","group D","some college","standard","none",72,64,59
+"563","female","group A","associate's degree","standard","none",66,72,77
+"564","female","group E","associate's degree","free/reduced","none",74,78,79
+"565","male","group A","some college","standard","none",87,81,82
+"566","female","group C","high school","free/reduced","completed",47,68,65
+"567","male","group D","master's degree","standard","none",57,56,50
+"568","female","group C","some high school","free/reduced","none",62,76,72
+"569","female","group B","associate's degree","standard","none",42,48,48
+"570","female","group E","some college","standard","completed",81,82,89
+"571","male","group D","some college","standard","none",99,85,88
+"572","female","group C","bachelor's degree","standard","completed",78,88,87
+"573","female","group D","associate's degree","free/reduced","none",49,57,57
+"574","female","group C","high school","standard","none",60,78,71
+"575","female","group D","some high school","standard","none",56,61,58
+"576","male","group D","some high school","free/reduced","none",60,48,48
+"577","male","group B","some college","standard","none",49,40,36
+"578","male","group D","bachelor's degree","standard","completed",51,50,53
+"579","male","group C","high school","standard","completed",78,86,82
+"580","female","group D","some college","standard","completed",77,79,88
+"581","female","group C","some college","standard","none",56,71,64
+"582","male","group B","high school","standard","none",50,41,39
+"583","female","group D","some high school","standard","completed",74,76,82
+"584","female","group D","some college","standard","none",70,78,77
+"585","female","group C","some high school","free/reduced","none",45,50,44
+"586","male","group E","associate's degree","free/reduced","completed",80,76,76
+"587","female","group C","associate's degree","standard","completed",69,84,84
+"588","female","group A","associate's degree","standard","none",77,94,91
+"589","female","group D","high school","free/reduced","completed",45,57,62
+"590","male","group A","associate's degree","standard","none",71,59,53
+"591","male","group C","master's degree","standard","none",63,62,59
+"592","male","group D","high school","standard","none",56,54,48
+"593","male","group C","high school","standard","none",52,45,49
+"594","female","group D","some college","standard","none",42,54,49
+"595","male","group B","some college","free/reduced","none",71,60,60
+"596","male","group E","some high school","free/reduced","completed",56,51,48
+"597","male","group C","associate's degree","standard","none",83,70,66
+"598","male","group E","some college","free/reduced","completed",70,68,69
+"599","female","group B","some college","free/reduced","none",63,62,70
+"600","female","group C","some college","standard","none",74,92,89
+"601","female","group C","some college","free/reduced","none",68,82,87
+"602","female","group D","high school","free/reduced","completed",50,60,62
+"603","female","group D","associate's degree","standard","completed",93,91,100
+"604","female","group B","some college","standard","none",67,75,68
+"605","male","group D","some college","standard","none",98,83,84
+"606","male","group C","associate's degree","standard","none",84,77,73
+"607","female","group D","some high school","free/reduced","none",64,73,70
+"608","female","group A","associate's degree","standard","none",62,72,68
+"609","female","group C","high school","standard","none",68,75,70
+"610","female","group C","associate's degree","free/reduced","none",43,49,52
+"611","male","group C","bachelor's degree","free/reduced","completed",64,68,71
+"612","female","group C","bachelor's degree","standard","none",49,66,64
+"613","male","group B","master's degree","standard","none",79,85,81
+"614","male","group C","high school","free/reduced","completed",75,82,75
+"615","female","group C","some college","standard","completed",54,69,67
+"616","male","group C","associate's degree","standard","none",70,61,59
+"617","female","group C","bachelor's degree","standard","none",71,68,73
+"618","male","group D","some college","free/reduced","none",51,50,47
+"619","male","group E","some college","free/reduced","completed",66,63,66
+"620","female","group C","some high school","standard","none",61,62,66
+"621","female","group C","some high school","standard","none",75,82,76
+"622","female","group C","some college","standard","none",67,75,79
+"623","male","group C","some college","free/reduced","completed",76,73,81
+"624","female","group C","some college","free/reduced","none",43,67,66
+"625","female","group A","some college","free/reduced","completed",41,54,55
+"626","male","group D","associate's degree","standard","none",83,77,77
+"627","male","group D","associate's degree","free/reduced","none",68,64,65
+"628","female","group E","high school","free/reduced","none",66,84,84
+"629","male","group C","high school","standard","none",71,70,64
+"630","female","group D","associate's degree","standard","none",60,64,66
+"631","male","group A","master's degree","free/reduced","none",66,60,59
+"632","male","group C","master's degree","standard","none",79,75,68
+"633","male","group A","associate's degree","standard","none",81,64,62
+"634","female","group E","associate's degree","standard","none",77,76,71
+"635","female","group D","some college","free/reduced","none",58,55,62
+"636","male","group D","bachelor's degree","standard","none",77,67,63
+"637","female","group A","associate's degree","standard","none",55,62,62
+"638","male","group B","some high school","standard","completed",69,63,58
+"639","female","group A","master's degree","standard","completed",62,74,79
+"640","female","group E","associate's degree","standard","completed",83,79,83
+"641","male","group C","some college","standard","none",77,77,72
+"642","male","group D","high school","free/reduced","completed",86,84,86
+"643","male","group C","bachelor's degree","standard","completed",55,48,53
+"644","male","group A","master's degree","free/reduced","none",50,47,45
+"645","male","group D","some high school","standard","none",87,72,77
+"646","male","group B","bachelor's degree","free/reduced","none",59,67,59
+"647","male","group C","high school","free/reduced","none",39,43,38
+"648","female","group D","high school","free/reduced","none",46,60,58
+"649","female","group B","some college","standard","completed",89,94,96
+"650","female","group C","some high school","standard","none",70,79,74
+"651","male","group D","associate's degree","free/reduced","none",66,73,70
+"652","female","group E","some college","standard","completed",81,91,86
+"653","male","group B","high school","free/reduced","none",21,20,16
+"654","female","group B","associate's degree","free/reduced","none",57,72,78
+"655","male","group C","high school","free/reduced","none",51,54,51
+"656","male","group C","some high school","standard","completed",62,59,55
+"657","male","group C","some high school","free/reduced","none",38,43,39
+"658","female","group B","some high school","standard","completed",64,71,71
+"659","male","group D","high school","standard","none",82,73,69
+"660","female","group B","some high school","standard","none",33,47,38
+"661","female","group D","some college","standard","completed",67,72,82
+"662","female","group B","some college","free/reduced","completed",46,55,60
+"663","female","group D","associate's degree","standard","completed",77,85,85
+"664","male","group B","some high school","free/reduced","none",62,69,58
+"665","male","group C","master's degree","free/reduced","none",64,69,62
+"666","female","group B","high school","free/reduced","completed",52,66,59
+"667","female","group B","some college","standard","none",58,60,62
+"668","female","group C","high school","standard","completed",77,83,80
+"669","female","group D","bachelor's degree","free/reduced","none",50,68,63
+"670","female","group B","bachelor's degree","standard","none",86,97,94
+"671","male","group B","some college","free/reduced","completed",58,69,66
+"672","male","group D","master's degree","standard","none",90,84,87
+"673","male","group D","some college","standard","none",53,50,45
+"674","female","group C","bachelor's degree","standard","none",79,86,91
+"675","female","group B","some college","standard","completed",65,69,71
+"676","female","group B","master's degree","standard","completed",77,93,97
+"677","female","group A","bachelor's degree","free/reduced","none",43,65,57
+"678","female","group B","some high school","standard","none",64,69,69
+"679","male","group B","some college","standard","none",75,71,71
+"680","male","group C","high school","standard","none",48,50,51
+"681","female","group E","some high school","standard","none",74,75,67
+"682","male","group D","high school","standard","completed",90,84,90
+"683","female","group B","some college","standard","none",62,73,69
+"684","male","group D","some college","free/reduced","none",54,49,45
+"685","female","group C","associate's degree","standard","none",71,78,81
+"686","male","group D","some college","standard","completed",100,98,97
+"687","male","group C","some college","standard","completed",71,69,64
+"688","male","group E","some college","standard","completed",100,100,98
+"689","female","group E","some college","standard","none",67,64,64
+"690","male","group C","master's degree","standard","none",58,55,55
+"691","female","group C","high school","free/reduced","none",51,55,56
+"692","female","group B","bachelor's degree","standard","none",62,77,73
+"693","male","group C","some college","free/reduced","completed",60,75,75
+"694","male","group C","associate's degree","free/reduced","none",59,60,57
+"695","male","group D","some college","standard","completed",71,55,55
+"696","male","group D","some high school","free/reduced","none",26,31,31
+"697","male","group C","high school","free/reduced","completed",84,78,73
+"698","female","group A","some high school","standard","none",52,63,63
+"699","female","group C","some high school","standard","none",83,92,87
+"700","male","group D","some high school","standard","completed",67,59,60
+"701","male","group D","some college","standard","completed",69,76,73
+"702","male","group B","some college","standard","none",48,43,43
+"703","male","group C","some high school","standard","completed",76,76,73
+"704","male","group D","some college","free/reduced","completed",48,43,47
+"705","female","group B","bachelor's degree","standard","completed",71,88,85
+"706","female","group A","some college","standard","none",59,62,64
+"707","male","group C","some college","standard","none",82,77,67
+"708","female","group D","high school","free/reduced","none",68,80,75
+"709","female","group D","associate's degree","standard","none",86,83,83
+"710","male","group B","bachelor's degree","free/reduced","completed",43,47,47
+"711","male","group E","high school","standard","none",58,57,54
+"712","female","group C","associate's degree","standard","none",88,94,90
+"713","male","group C","associate's degree","standard","completed",94,87,86
+"714","male","group D","associate's degree","standard","none",63,70,74
+"715","female","group C","some high school","standard","completed",72,82,86
+"716","female","group B","some college","standard","none",62,66,64
+"717","male","group E","associate's degree","free/reduced","completed",67,67,64
+"718","male","group C","associate's degree","free/reduced","none",52,66,60
+"719","female","group B","some high school","free/reduced","none",60,62,58
+"720","male","group D","some high school","free/reduced","none",60,62,60
+"721","male","group D","high school","standard","none",79,71,68
+"722","female","group D","associate's degree","standard","completed",99,100,100
+"723","female","group B","high school","free/reduced","completed",71,77,84
+"724","male","group B","some high school","standard","none",84,75,72
+"725","female","group C","bachelor's degree","free/reduced","completed",55,71,71
+"726","male","group C","some high school","standard","completed",67,75,75
+"727","male","group D","some college","free/reduced","none",48,39,41
+"728","female","group B","some college","standard","none",49,54,47
+"729","female","group E","associate's degree","free/reduced","none",40,53,51
+"730","male","group C","some college","standard","completed",71,86,82
+"731","female","group E","associate's degree","standard","completed",87,91,98
+"732","female","group D","some college","free/reduced","none",55,76,71
+"733","female","group C","some college","standard","none",78,85,82
+"734","female","group D","associate's degree","standard","none",78,88,87
+"735","female","group D","some high school","standard","completed",54,66,68
+"736","female","group E","high school","standard","completed",89,91,91
+"737","male","group D","high school","free/reduced","none",78,77,68
+"738","male","group E","high school","standard","none",95,77,79
+"739","female","group E","associate's degree","free/reduced","none",84,95,97
+"740","female","group C","some high school","standard","none",51,60,59
+"741","male","group C","associate's degree","standard","none",72,62,61
+"742","female","group C","some high school","standard","completed",62,66,70
+"743","male","group D","some college","standard","completed",55,56,60
+"744","female","group B","bachelor's degree","standard","none",76,86,86
+"745","male","group C","high school","free/reduced","none",51,59,50
+"746","male","group D","high school","standard","completed",63,66,67
+"747","female","group D","some college","standard","none",55,40,54
+"748","male","group C","some college","standard","completed",84,73,78
+"749","female","group D","associate's degree","standard","none",65,74,72
+"750","male","group E","bachelor's degree","free/reduced","none",47,43,38
+"751","male","group C","master's degree","free/reduced","none",55,52,47
+"752","male","group C","high school","standard","none",66,74,67
+"753","female","group C","some high school","standard","completed",90,100,100
+"754","male","group D","some high school","free/reduced","none",76,59,59
+"755","male","group D","some high school","standard","completed",64,77,73
+"756","female","group C","associate's degree","standard","none",40,50,51
+"757","female","group C","associate's degree","free/reduced","completed",61,73,78
+"758","male","group D","high school","free/reduced","completed",60,70,69
+"759","male","group C","high school","standard","none",62,54,52
+"760","male","group D","some high school","standard","none",81,70,73
+"761","female","group B","associate's degree","free/reduced","none",53,72,72
+"762","female","group D","high school","free/reduced","none",60,64,64
+"763","female","group C","some college","free/reduced","completed",58,79,83
+"764","female","group B","associate's degree","free/reduced","none",56,61,62
+"765","male","group A","associate's degree","standard","none",76,72,73
+"766","female","group D","some high school","standard","none",71,76,73
+"767","male","group C","associate's degree","standard","none",92,79,81
+"768","male","group B","associate's degree","standard","none",68,57,59
+"769","female","group E","bachelor's degree","standard","none",43,51,49
+"770","male","group D","some high school","standard","none",42,46,39
+"771","female","group C","some college","standard","completed",77,89,93
+"772","female","group C","master's degree","standard","completed",65,70,71
+"773","male","group E","high school","free/reduced","none",69,51,47
+"774","female","group D","associate's degree","free/reduced","none",83,86,93
+"775","female","group C","high school","standard","completed",66,73,76
+"776","male","group D","bachelor's degree","standard","none",63,52,53
+"777","male","group C","master's degree","standard","completed",75,72,77
+"778","male","group B","associate's degree","standard","none",67,64,57
+"779","male","group C","high school","free/reduced","none",47,47,44
+"780","male","group B","some college","free/reduced","completed",90,77,83
+"781","female","group D","associate's degree","standard","none",73,84,78
+"782","male","group C","master's degree","standard","completed",77,68,74
+"783","female","group B","some college","standard","none",76,90,89
+"784","male","group D","master's degree","standard","completed",95,98,100
+"785","male","group C","high school","standard","none",59,55,48
+"786","female","group C","associate's degree","standard","none",63,62,68
+"787","male","group E","associate's degree","free/reduced","completed",60,61,63
+"788","male","group A","some high school","free/reduced","none",50,41,40
+"789","female","group B","some high school","standard","completed",73,89,84
+"790","male","group C","some college","standard","none",49,44,39
+"791","male","group B","some high school","free/reduced","completed",63,64,68
+"792","female","group A","high school","standard","completed",72,81,79
+"793","male","group D","high school","standard","none",79,67,64
+"794","female","group A","high school","standard","none",70,72,72
+"795","male","group D","high school","standard","none",73,72,70
+"796","male","group B","some college","standard","none",73,72,69
+"797","female","group D","associate's degree","standard","none",76,77,83
+"798","male","group D","associate's degree","standard","none",88,87,82
+"799","female","group D","some high school","standard","completed",38,56,56
+"800","male","group C","some high school","standard","none",94,88,84
+"801","female","group D","some high school","standard","none",53,74,66
+"802","male","group D","some high school","free/reduced","none",76,70,72
+"803","male","group B","associate's degree","standard","completed",74,84,78
+"804","male","group D","some college","standard","none",92,93,87
+"805","female","group C","some high school","standard","none",52,63,56
+"806","male","group C","some high school","standard","none",59,62,54
+"807","female","group D","master's degree","standard","none",72,88,89
+"808","male","group C","high school","standard","none",83,73,72
+"809","female","group B","associate's degree","standard","none",60,76,77
+"810","female","group C","associate's degree","free/reduced","none",75,94,82
+"811","female","group E","high school","standard","none",72,76,77
+"812","female","group C","bachelor's degree","standard","none",56,74,72
+"813","female","group B","high school","free/reduced","completed",36,54,59
+"814","male","group C","some high school","standard","none",85,87,81
+"815","female","group B","high school","free/reduced","none",63,69,72
+"816","male","group A","some high school","standard","none",62,59,47
+"817","female","group D","high school","standard","completed",87,100,100
+"818","female","group B","some college","standard","none",41,51,51
+"819","female","group B","bachelor's degree","standard","completed",77,93,90
+"820","male","group A","some college","standard","none",80,84,80
+"821","male","group B","bachelor's degree","standard","completed",77,85,83
+"822","female","group B","some high school","standard","none",56,64,65
+"823","female","group D","master's degree","standard","completed",88,98,99
+"824","male","group D","some college","free/reduced","completed",63,68,67
+"825","female","group D","some college","standard","completed",53,71,76
+"826","female","group C","some college","standard","completed",82,100,100
+"827","female","group B","high school","standard","completed",82,94,93
+"828","female","group D","some college","standard","none",62,71,68
+"829","male","group C","associate's degree","free/reduced","completed",67,63,62
+"830","male","group E","some college","standard","none",72,61,62
+"831","female","group B","high school","free/reduced","none",46,56,54
+"832","female","group B","high school","standard","none",64,74,71
+"833","female","group B","some high school","standard","none",58,57,62
+"834","female","group D","master's degree","standard","none",100,100,100
+"835","female","group B","bachelor's degree","standard","none",57,74,77
+"836","female","group E","high school","free/reduced","completed",46,60,64
+"837","female","group E","associate's degree","free/reduced","completed",74,86,89
+"838","male","group B","high school","standard","none",74,66,60
+"839","female","group B","associate's degree","standard","completed",58,67,68
+"840","male","group D","bachelor's degree","standard","none",100,87,86
+"841","male","group A","some college","standard","none",79,72,69
+"842","male","group E","associate's degree","free/reduced","completed",54,56,57
+"843","female","group C","associate's degree","standard","none",66,74,75
+"844","male","group A","some college","standard","none",56,48,45
+"845","male","group B","high school","standard","none",89,85,73
+"846","male","group E","bachelor's degree","standard","none",85,65,65
+"847","male","group D","associate's degree","standard","completed",86,88,90
+"848","female","group C","some college","free/reduced","none",41,52,48
+"849","female","group B","some college","standard","none",80,87,85
+"850","male","group C","associate's degree","standard","none",74,66,65
+"851","male","group B","associate's degree","standard","completed",82,76,77
+"852","male","group D","high school","standard","none",81,80,71
+"853","female","group E","associate's degree","free/reduced","completed",70,84,88
+"854","male","group B","associate's degree","standard","completed",86,84,86
+"855","male","group C","bachelor's degree","free/reduced","completed",53,52,45
+"856","male","group E","some college","standard","completed",99,95,97
+"857","male","group B","some college","free/reduced","none",51,55,47
+"858","female","group D","some high school","standard","none",68,74,74
+"859","female","group C","high school","standard","none",71,82,86
+"860","male","group B","associate's degree","standard","none",88,74,74
+"861","female","group A","some high school","standard","none",50,60,61
+"862","male","group D","some high school","standard","none",72,68,64
+"863","female","group E","some college","standard","completed",73,75,74
+"864","female","group E","associate's degree","free/reduced","none",60,59,64
+"865","male","group A","some college","standard","completed",76,84,81
+"866","female","group C","bachelor's degree","standard","none",82,88,86
+"867","male","group C","associate's degree","standard","none",71,71,64
+"868","female","group E","master's degree","standard","none",83,79,82
+"869","male","group D","high school","standard","none",69,63,66
+"870","female","group C","master's degree","standard","completed",88,84,88
+"871","male","group C","bachelor's degree","free/reduced","completed",63,63,62
+"872","female","group D","high school","standard","none",55,57,64
+"873","male","group C","bachelor's degree","standard","none",84,72,69
+"874","female","group C","bachelor's degree","standard","none",57,64,54
+"875","male","group B","some college","standard","none",62,72,69
+"876","female","group B","some college","standard","completed",68,73,79
+"877","female","group D","some college","standard","none",85,89,92
+"878","male","group E","associate's degree","free/reduced","none",84,86,80
+"879","male","group C","some high school","standard","completed",58,59,53
+"880","female","group C","associate's degree","standard","completed",89,99,100
+"881","female","group C","some college","standard","completed",79,95,93
+"882","male","group E","bachelor's degree","standard","none",82,82,74
+"883","female","group C","master's degree","free/reduced","completed",48,74,67
+"884","female","group E","associate's degree","standard","none",73,83,78
+"885","male","group B","some college","free/reduced","none",52,44,41
+"886","female","group C","associate's degree","standard","none",69,75,74
+"887","female","group D","some college","standard","completed",68,70,77
+"888","male","group D","some high school","free/reduced","completed",69,72,69
+"889","female","group D","master's degree","free/reduced","none",50,55,63
+"890","female","group B","high school","standard","none",50,55,50
+"891","male","group C","some high school","standard","none",80,72,70
+"892","female","group C","some college","standard","none",48,54,51
+"893","male","group B","associate's degree","free/reduced","none",72,75,71
+"894","female","group C","some college","free/reduced","none",60,68,65
+"895","male","group C","some college","standard","completed",70,63,63
+"896","female","group A","some high school","free/reduced","none",28,46,37
+"897","female","group D","high school","standard","none",73,87,84
+"898","female","group D","some high school","free/reduced","none",35,40,39
+"899","female","group B","some college","free/reduced","none",69,80,77
+"900","male","group B","master's degree","free/reduced","none",78,72,63
+"901","female","group C","high school","standard","completed",73,84,88
+"902","female","group C","high school","standard","completed",38,51,57
+"903","male","group D","associate's degree","standard","none",81,79,78
+"904","male","group E","master's degree","standard","none",92,81,77
+"905","female","group A","some high school","standard","completed",62,67,68
+"906","female","group D","master's degree","free/reduced","completed",66,76,83
+"907","male","group E","some college","standard","none",100,90,87
+"908","male","group B","some college","standard","completed",77,77,77
+"909","female","group B","bachelor's degree","standard","completed",81,89,86
+"910","female","group D","some college","standard","none",73,81,84
+"911","female","group D","some college","standard","completed",78,79,87
+"912","male","group A","some college","standard","none",56,53,53
+"913","female","group E","high school","free/reduced","none",35,46,43
+"914","male","group D","some high school","standard","none",71,63,60
+"915","male","group D","high school","standard","completed",78,81,77
+"916","female","group C","high school","free/reduced","none",51,60,60
+"917","male","group B","bachelor's degree","standard","none",86,86,79
+"918","male","group B","associate's degree","standard","none",77,87,79
+"919","female","group D","high school","standard","none",61,62,65
+"920","male","group E","bachelor's degree","free/reduced","none",80,64,64
+"921","female","group A","some high school","free/reduced","none",57,68,62
+"922","male","group C","associate's degree","standard","none",46,54,48
+"923","male","group C","some high school","standard","none",73,72,71
+"924","female","group B","associate's degree","free/reduced","none",56,72,66
+"925","male","group C","some high school","standard","none",75,62,57
+"926","female","group C","some high school","free/reduced","completed",69,75,78
+"927","female","group B","bachelor's degree","standard","none",83,93,94
+"928","male","group E","some college","free/reduced","completed",69,62,63
+"929","male","group C","some college","standard","completed",92,79,84
+"930","female","group B","master's degree","free/reduced","completed",55,58,61
+"931","male","group B","some college","standard","none",63,55,60
+"932","male","group D","some high school","standard","completed",72,72,76
+"933","female","group C","high school","free/reduced","none",51,63,62
+"934","female","group D","some college","standard","completed",83,89,91
+"935","male","group C","associate's degree","free/reduced","none",34,27,30
+"936","male","group D","some high school","free/reduced","none",66,64,65
+"937","male","group C","bachelor's degree","standard","none",49,43,39
+"938","female","group E","high school","standard","completed",94,100,100
+"939","female","group A","master's degree","free/reduced","completed",57,75,74
+"940","male","group B","some college","free/reduced","completed",74,75,76
+"941","female","group B","high school","free/reduced","completed",54,70,63
+"942","female","group D","some college","standard","none",64,57,54
+"943","male","group C","high school","standard","none",54,55,52
+"944","male","group D","associate's degree","free/reduced","none",48,60,54
+"945","male","group D","master's degree","standard","completed",90,93,93
+"946","male","group C","some high school","standard","none",59,55,57
+"947","male","group D","some college","standard","none",46,46,39
+"948","female","group D","some college","free/reduced","none",60,64,63
+"949","male","group D","some college","standard","completed",62,64,66
+"950","male","group D","some high school","standard","completed",89,78,82
+"951","female","group D","bachelor's degree","standard","none",67,79,79
+"952","female","group C","associate's degree","standard","completed",90,90,100
+"953","male","group D","bachelor's degree","standard","none",64,58,56
+"954","female","group E","associate's degree","standard","none",77,92,88
+"955","male","group A","some college","standard","none",69,61,59
+"956","male","group E","some high school","standard","none",86,78,76
+"957","female","group B","some college","standard","none",32,52,51
+"958","female","group C","high school","standard","none",75,78,74
+"959","female","group C","associate's degree","standard","none",47,49,44
+"960","female","group E","high school","standard","completed",74,78,80
+"961","male","group C","high school","standard","none",74,69,67
+"962","male","group B","some college","standard","none",60,64,62
+"963","female","group E","some college","free/reduced","none",59,61,61
+"964","male","group B","some college","standard","none",83,68,67
+"965","female","group D","high school","free/reduced","completed",58,71,69
+"966","female","group D","associate's degree","standard","none",67,80,88
+"967","male","group C","some college","standard","none",88,90,83
+"968","male","group B","master's degree","free/reduced","none",62,67,63
+"969","male","group C","bachelor's degree","free/reduced","completed",75,77,73
+"970","female","group C","associate's degree","standard","completed",56,74,70
+"971","female","group B","high school","free/reduced","none",58,71,70
+"972","male","group E","associate's degree","standard","none",87,81,84
+"973","female","group A","associate's degree","free/reduced","none",52,71,59
+"974","female","group B","some high school","standard","completed",81,100,95
+"975","male","group C","associate's degree","free/reduced","none",58,57,53
+"976","male","group A","associate's degree","standard","completed",95,91,83
+"977","male","group C","master's degree","free/reduced","completed",65,68,70
+"978","male","group C","high school","free/reduced","completed",55,51,52
+"979","female","group D","some college","free/reduced","none",55,67,66
+"980","male","group E","some high school","free/reduced","none",65,70,57
+"981","male","group E","high school","free/reduced","completed",84,73,76
+"982","male","group D","high school","standard","none",72,63,61
+"983","female","group D","some high school","standard","completed",46,48,55
+"984","male","group C","some high school","standard","completed",62,66,57
+"985","female","group E","associate's degree","standard","none",85,73,79
+"986","male","group C","some college","free/reduced","none",55,44,40
+"987","male","group B","some high school","standard","none",89,90,86
+"988","male","group B","bachelor's degree","free/reduced","none",80,81,78
+"989","male","group D","associate's degree","free/reduced","none",76,68,70
+"990","male","group A","some high school","free/reduced","none",50,42,37
+"991","male","group D","bachelor's degree","free/reduced","none",71,65,66
+"992","female","group E","high school","free/reduced","none",51,55,52
+"993","male","group A","high school","standard","none",56,66,61
+"994","male","group C","bachelor's degree","standard","completed",80,77,75
+"995","female","group E","high school","standard","none",78,90,83
+"996","male","group B","high school","free/reduced","none",23,19,22
+"997","male","group D","some college","standard","none",79,71,72
+"998","female","group B","bachelor's degree","standard","completed",60,73,79
+"999","female","group C","master's degree","free/reduced","none",67,78,70
+"1000","female","group E","some college","standard","completed",78,83,86
+"1001","male","group C","high school","standard","completed",67,59,55
+"1002","female","group D","associate's degree","standard","none",46,45,47
+"1003","female","group A","high school","standard","completed",73,72,88
+"1004","male","group B","high school","standard","none",69,69,58
+"1005","female","group E","some high school","free/reduced","none",64,70,63
+"1006","male","group D","some college","free/reduced","completed",68,64,66
+"1007","male","group D","bachelor's degree","free/reduced","none",70,66,69
+"1008","female","group C","some high school","free/reduced","none",39,51,46
+"1009","female","group E","some college","standard","none",92,99,100
+"1010","male","group C","associate's degree","standard","none",53,50,46
+"1011","male","group D","some college","standard","none",79,81,81
+"1012","female","group C","bachelor's degree","free/reduced","completed",54,67,75
+"1013","female","group C","master's degree","free/reduced","none",61,73,73
+"1014","male","group A","some high school","standard","none",58,62,57
+"1015","female","group C","associate's degree","free/reduced","none",74,82,78
+"1016","male","group B","high school","free/reduced","completed",56,56,53
+"1017","male","group C","bachelor's degree","free/reduced","completed",82,70,83
+"1018","female","group C","some college","standard","completed",79,81,83
+"1019","female","group C","some college","free/reduced","none",46,57,55
+"1020","male","group C","some high school","free/reduced","none",45,48,44
+"1021","female","group B","high school","standard","none",67,75,72
+"1022","male","group C","high school","standard","none",38,43,35
+"1023","female","group E","associate's degree","standard","completed",71,76,82
+"1024","female","group B","some college","standard","none",77,94,87
+"1025","male","group C","high school","free/reduced","none",28,36,36
+"1026","female","group B","some high school","standard","none",62,67,64
+"1027","male","group C","bachelor's degree","free/reduced","completed",83,87,91
+"1028","male","group B","high school","standard","completed",80,73,70
+"1029","male","group C","some high school","free/reduced","none",51,45,37
+"1030","male","group D","some college","standard","none",54,55,53
+"1031","female","group E","high school","standard","completed",100,100,100
+"1032","female","group C","high school","free/reduced","none",59,68,68
+"1033","male","group B","master's degree","standard","none",93,89,89
+"1034","female","group E","bachelor's degree","free/reduced","none",76,83,84
+"1035","male","group C","associate's degree","free/reduced","none",70,63,55
+"1036","male","group D","some college","standard","completed",82,73,82
+"1037","male","group D","some high school","free/reduced","completed",78,78,78
+"1038","male","group C","associate's degree","standard","completed",65,60,69
+"1039","female","group B","high school","standard","none",79,87,86
+"1040","male","group E","associate's degree","standard","none",100,86,88
+"1041","male","group A","associate's degree","standard","completed",76,77,77
+"1042","male","group D","bachelor's degree","standard","none",67,74,68
+"1043","female","group E","some high school","standard","none",63,60,52
+"1044","female","group D","some high school","free/reduced","none",56,68,62
+"1045","female","group C","some college","free/reduced","completed",46,59,57
+"1046","female","group C","some college","standard","completed",68,84,87
+"1047","female","group E","some high school","standard","none",70,82,79
+"1048","female","group D","associate's degree","standard","completed",84,96,96
+"1049","female","group C","bachelor's degree","standard","completed",89,86,93
+"1050","female","group B","some college","free/reduced","completed",54,66,72
+"1051","female","group B","high school","standard","none",46,61,62
+"1052","female","group C","some high school","standard","none",72,76,77
+"1053","male","group B","high school","free/reduced","none",51,53,52
+"1054","female","group C","some high school","standard","none",48,64,54
+"1055","male","group A","master's degree","free/reduced","completed",42,38,47
+"1056","male","group C","some high school","standard","none",56,47,45
+"1057","male","group B","associate's degree","standard","none",55,56,50
+"1058","female","group C","some college","standard","none",67,77,68
+"1059","male","group E","high school","standard","none",66,46,45
+"1060","male","group C","associate's degree","standard","none",55,61,53
+"1061","male","group C","high school","standard","completed",87,90,80
+"1062","male","group D","some college","standard","none",50,56,59
+"1063","female","group A","some college","standard","none",52,56,56
+"1064","male","group C","bachelor's degree","free/reduced","completed",60,65,60
+"1065","female","group E","associate's degree","standard","none",81,81,79
+"1066","female","group E","high school","standard","none",51,58,59
+"1067","female","group E","high school","standard","completed",98,100,100
+"1068","female","group E","high school","standard","none",76,79,77
+"1069","female","group B","associate's degree","standard","none",95,94,90
+"1070","male","group D","bachelor's degree","free/reduced","none",54,61,56
+"1071","male","group A","some high school","standard","completed",44,46,51
+"1072","male","group C","associate's degree","standard","none",75,68,67
+"1073","female","group B","high school","standard","completed",64,70,70
+"1074","female","group E","some college","standard","none",85,83,88
+"1075","female","group E","associate's degree","free/reduced","completed",75,73,78
+"1076","male","group B","high school","free/reduced","none",64,60,57
+"1077","female","group C","associate's degree","standard","none",61,75,66
+"1078","male","group C","some college","standard","none",60,58,56
+"1079","female","group B","some high school","standard","none",56,65,67
+"1080","female","group D","some college","standard","none",61,65,63
+"1081","female","group B","some high school","standard","completed",53,57,61
+"1082","female","group C","high school","free/reduced","completed",73,89,88
+"1083","male","group B","some college","free/reduced","none",42,52,37
+"1084","male","group B","master's degree","standard","none",83,78,82
+"1085","male","group D","some high school","free/reduced","completed",57,56,60
+"1086","female","group C","bachelor's degree","free/reduced","none",50,58,59
+"1087","male","group C","master's degree","free/reduced","none",79,83,78
+"1088","female","group C","associate's degree","standard","none",76,85,85
+"1089","female","group E","bachelor's degree","standard","completed",78,80,85
+"1090","male","group B","associate's degree","standard","none",76,64,66
+"1091","female","group B","some college","standard","none",55,66,61
+"1092","male","group C","associate's degree","standard","none",44,34,30
+"1093","female","group C","bachelor's degree","standard","none",63,70,73
+"1094","female","group C","associate's degree","standard","completed",81,92,98
+"1095","female","group B","some high school","standard","none",77,89,82
+"1096","female","group C","some high school","standard","none",50,58,57
+"1097","female","group E","some college","standard","none",85,91,83
+"1098","male","group C","bachelor's degree","free/reduced","none",48,43,43
+"1099","male","group C","some high school","standard","none",65,66,65
+"1100","male","group C","high school","free/reduced","none",57,58,55
+"1101","female","group C","some high school","standard","none",56,60,62
+"1102","male","group B","bachelor's degree","standard","completed",67,76,72
+"1103","male","group D","some high school","free/reduced","completed",59,53,52
+"1104","male","group C","high school","free/reduced","none",72,59,57
+"1105","female","group C","associate's degree","free/reduced","completed",68,91,85
+"1106","male","group C","associate's degree","free/reduced","none",74,82,75
+"1107","female","group D","associate's degree","standard","none",89,89,94
+"1108","male","group B","master's degree","standard","none",69,61,64
+"1109","female","group B","high school","standard","completed",60,57,66
+"1110","male","group D","some high school","standard","none",41,32,39
+"1111","male","group B","associate's degree","standard","none",75,67,65
+"1112","male","group C","some college","free/reduced","none",42,43,43
+"1113","female","group B","high school","free/reduced","completed",55,79,79
+"1114","female","group B","some high school","free/reduced","completed",53,60,64
+"1115","male","group E","associate's degree","standard","none",69,69,61
+"1116","female","group C","some high school","standard","completed",80,86,89
+"1117","male","group C","some high school","standard","completed",66,68,69
+"1118","female","group E","bachelor's degree","standard","none",91,94,100
+"1119","female","group D","some college","free/reduced","completed",57,67,67
+"1120","male","group A","high school","free/reduced","completed",26,39,34
+"1121","male","group D","associate's degree","standard","completed",100,92,98
+"1122","female","group D","associate's degree","standard","completed",66,64,73
+"1123","male","group D","associate's degree","standard","none",99,90,89
+"1124","male","group C","master's degree","standard","completed",90,89,89
+"1125","male","group E","bachelor's degree","free/reduced","completed",78,71,73
+"1126","female","group C","some high school","standard","none",58,69,72
+"1127","male","group D","associate's degree","standard","none",81,75,74
+"1128","male","group C","some high school","standard","none",68,58,54
+"1129","male","group D","some high school","standard","none",66,61,54
+"1130","male","group D","associate's degree","standard","completed",85,86,87
+"1131","female","group C","bachelor's degree","standard","none",76,88,86
+"1132","male","group A","some college","standard","none",59,58,54
+"1133","male","group C","some high school","standard","completed",77,77,76
+"1134","male","group D","associate's degree","free/reduced","completed",35,38,40
+"1135","female","group A","some high school","free/reduced","completed",67,75,73
+"1136","female","group C","associate's degree","standard","none",64,86,81
+"1137","female","group D","some high school","free/reduced","completed",56,69,73
+"1138","male","group B","associate's degree","free/reduced","completed",53,60,59
+"1139","female","group C","some college","standard","none",58,70,67
+"1140","female","group C","associate's degree","free/reduced","none",49,69,71
+"1141","female","group B","associate's degree","standard","none",42,50,52
+"1142","male","group E","master's degree","standard","completed",66,65,63
+"1143","male","group E","associate's degree","free/reduced","completed",65,55,57
+"1144","female","group C","high school","standard","none",73,85,81
+"1145","female","group C","some college","standard","completed",64,81,79
+"1146","male","group C","some college","free/reduced","completed",70,71,70
+"1147","female","group B","some high school","standard","none",54,64,53
+"1148","male","group D","master's degree","standard","none",81,65,64
+"1149","female","group C","associate's degree","standard","none",74,88,81
+"1150","male","group D","some high school","free/reduced","none",55,54,47
+"1151","male","group D","associate's degree","standard","completed",75,75,76
+"1152","male","group B","high school","free/reduced","completed",81,81,82
+"1153","female","group D","some high school","standard","completed",44,50,56
+"1154","male","group E","bachelor's degree","standard","none",74,60,57
+"1155","male","group C","master's degree","standard","completed",83,77,80
+"1156","male","group C","master's degree","standard","none",77,66,66
+"1157","female","group C","some high school","standard","completed",38,47,47
+"1158","female","group C","some high school","standard","completed",67,77,77
+"1159","female","group D","associate's degree","standard","none",41,40,41
+"1160","male","group B","associate's degree","free/reduced","none",78,82,70
+"1161","female","group C","high school","standard","none",72,81,82
+"1162","male","group C","some high school","standard","completed",58,69,58
+"1163","male","group C","bachelor's degree","standard","none",61,50,54
+"1164","male","group E","some college","standard","none",75,71,65
+"1165","male","group C","high school","free/reduced","none",71,78,69
+"1166","male","group B","high school","standard","none",53,42,36
+"1167","male","group B","associate's degree","standard","none",80,67,63
+"1168","female","group C","some college","standard","completed",50,68,70
+"1169","male","group E","associate's degree","free/reduced","completed",84,86,77
+"1170","male","group D","some high school","standard","none",97,89,85
+"1171","male","group C","associate's degree","standard","none",37,38,37
+"1172","male","group E","some college","standard","completed",98,96,87
+"1173","female","group E","associate's degree","standard","none",73,82,74
+"1174","female","group C","high school","free/reduced","completed",83,93,89
+"1175","male","group C","some college","standard","completed",68,62,65
+"1176","female","group C","some college","free/reduced","none",69,70,70
+"1177","female","group C","some college","standard","none",70,87,82
+"1178","female","group D","some high school","free/reduced","completed",45,61,59
+"1179","female","group C","some high school","standard","none",58,65,63
+"1180","male","group E","master's degree","free/reduced","completed",75,76,71
+"1181","male","group D","some high school","standard","none",59,47,48
+"1182","male","group B","high school","standard","none",84,86,83
+"1183","male","group C","some college","free/reduced","none",39,50,40
+"1184","female","group D","some college","standard","none",95,97,93
+"1185","male","group E","high school","standard","none",92,73,74
+"1186","female","group E","associate's degree","standard","none",50,60,51
+"1187","female","group C","master's degree","standard","completed",95,100,100
+"1188","female","group D","associate's degree","free/reduced","none",59,73,67
+"1189","female","group B","some high school","standard","none",54,71,61
+"1190","female","group B","some college","standard","none",62,75,73
+"1191","female","group D","master's degree","standard","none",75,75,78
+"1192","female","group A","high school","free/reduced","none",44,61,53
+"1193","female","group A","high school","standard","none",73,70,71
+"1194","female","group B","some college","standard","none",56,66,62
+"1195","male","group A","some high school","free/reduced","none",58,57,58
+"1196","male","group C","associate's degree","standard","completed",65,63,62
+"1197","female","group C","some high school","standard","none",69,74,68
+"1198","female","group D","some college","free/reduced","none",43,48,45
+"1199","female","group B","some college","standard","none",51,51,57
+"1200","female","group B","some college","standard","completed",73,81,90
